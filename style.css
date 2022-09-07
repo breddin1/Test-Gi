@@ -1,0 +1,22 @@
+/*This is a comment*/
+
+/*Quotes*/
+.red{color: red;}
+.white{color: white;}
+.blue{color: blue;}
+/*Title Quotes*/
+#Obama-Quote{background-color: yellow; color: crimson;}
+/*Halloween*/
+/*.orange{color: darkorange;}*/
+.eggplant{color: rgb(52%, 20%, 45%);}
+.white{color: white;}
+.black{color: black;}
+.orange-background{background-color: orange;}
+/*Font*/
+h2{font-variant: small-caps;}
+.bold{font-weight: bold;}
+.huge-font{font-size: xx-large;}
+body{font-family: Courier, monospace;}
+/*Border*/
+h1{border: thin dotted blue;}
+h2{border: 10px solid;}
